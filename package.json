@@ -42,5 +42,7 @@
   },
   "scripts": {
     "start": "node samu.js"
- 
+ },
+  "autor":  "Sam y Perry",
+  "homepage":  "https://github.com/Samu330/NyanBot/readme" 
 }
